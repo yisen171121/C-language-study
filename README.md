@@ -5,3 +5,4 @@
 ### 运算优先级
 ![运算优先级](https://github.com/yisen171121/C-language-study/blob/main/images/%E8%BF%90%E7%AE%97%E4%BC%98%E5%85%88%E7%BA%A7.png)
 ![条件](https://github.com/yisen171121/C-language-study/blob/main/images/%E6%9D%A1%E4%BB%B6.png)
+![然后是几点](https://github.com/yisen171121/C-language-study/blob/main/images/%E7%84%B6%E5%90%8E%E6%98%AF%E5%87%A0%E7%82%B9.png)
